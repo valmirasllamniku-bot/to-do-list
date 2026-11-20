@@ -1,0 +1,6 @@
+data/database.json
+data/database.json.tmp
+data/ditari.sqlite
+data/ditari.sqlite-shm
+data/ditari.sqlite-wal
+node_modules/

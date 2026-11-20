@@ -1,0 +1,13 @@
+{
+  "name": "ditari-to-do",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplikacion i thjeshtë për planifikimin e detyrave",
+  "scripts": {
+    "start": "node server.js",
+    "start:lan": "node server-lan.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
